@@ -8,6 +8,7 @@ var urlsToCache = [
     './img/logo/64x64.ico',
     './img/logo/96x96.ico',
     './img/logo/128x128.ico',
+    './img/logo/512x512.png',
     './img/Icon/asterisk.svg'
 ]
 
