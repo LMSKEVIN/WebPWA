@@ -5,13 +5,10 @@ const CACHE_NAME = 'v1_cache_ic_pwa'
 var urlsToCache = [
     './',
     './styles/style.css',
-    './img/logo/16x16.ico',
-    './img/logo/32x32.ico',
-    './img/logo/64x64.ico',
-    './img/logo/96x96.ico',
-    './img/logo/128x128.ico',
+    './img/logo/16x16.png',
+    './img/logo/32x32.png',
+    './img/logo/192x192.png',
     './img/logo/512x512.png',
-    './img/Icon/asterisk.svg'
 ]
 
 // Event install to install the service worker
