@@ -9,6 +9,7 @@ var urlsToCache = [
     './img/logo/32x32.png',
     './img/logo/192x192.png',
     './img/logo/512x512.png',
+    './img/logo/favicon.ico'
 ]
 
 // Event install to install the service worker
