@@ -11,6 +11,11 @@
     "lang":"ex-MX",
     "icons":[
         {
+            "src":"./img/logo/144x144.jpg",
+            "sizes":"144x144",
+            "type": "image/ico"
+        },
+        {
             "src":"./img/logo/16x16.png",
             "sizes":"16x16",
             "type": "image/ico"
